@@ -13,7 +13,9 @@ I care deeply about:
 - Developer experience and automation
 - Reliable, cloud-native systems that scale effortlessly
 
----## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 <p>
