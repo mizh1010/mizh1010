@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Michael Zhang
 
-🚀 **Full-Stack & DevOps Engineer** | React.js · Go · Docker · Kubernetes · AWS  
-🌐 Cloud-Native & Scalable Systems Builder
+🚀 **Full-Stack & DevOps Engineer** | React.js · Go · Docker · Kubernetes · AWS   🌐 Cloud-Native & Scalable Systems Builder
 
 ---
 
@@ -14,38 +13,47 @@ I care deeply about:
 - Developer experience and automation
 - Reliable, cloud-native systems that scale effortlessly
 
-Whether it’s crafting intuitive user interfaces, designing APIs, or orchestrating containers in Kubernetes, I love shipping software that makes an impact.
-
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- ⚛️ React.js
-- TypeScript / JavaScript (ES6+)
-- HTML5, CSS3
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
 ### Backend
-- 🐹 Golang (Go)
-- RESTful APIs
-- GraphQL
-- Microservices Architecture
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />
+</p>
 
 ### DevOps & Cloud (Core Strength)
-- 🐳 Docker
-- ☸️ Kubernetes
-- ☁️ AWS (EKS, EC2, S3, RDS, IAM)
-- CI/CD (GitHub Actions)
-
-### Additional Platforms
-- DigitalOcean
-- Firebase Cloud
-- Microsoft Azure
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ### Databases
-- PostgreSQL, MySQL
-- MongoDB
-- Redis
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" />
+</p>
+
+### Additional Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="40" />
+</p>
 
 ---
 
@@ -56,17 +64,7 @@ Whether it’s crafting intuitive user interfaces, designing APIs, or orchestrat
 - Architect and manage cloud infrastructure on **AWS**
 - Build fast, secure, and scalable **APIs with Go**
 - Collaborate with teams to deliver high-quality products
-
+ 
 ---
 
-## 📌 Featured Projects
-> 🚧 Selected projects coming soon  
-I’m currently curating and polishing projects that showcase:
-- Kubernetes-based microservices
-- AWS cloud deployments
-- React + Go production applications
-
---- 
- 
- 
 ⭐ *If you like my work, feel free to star a repo or reach out — I’m always open to interesting conversations and collaborations.*
