@@ -65,5 +65,3 @@ I care deeply about:
 - Collaborate with teams to deliver high-quality products
  
 ---
-
-⭐ *If you like my work, feel free to star a repo or reach out — I’m always open to interesting conversations and collaborations.*
