@@ -1,12 +1,10 @@
-# 👋 Hi, I’m Michael Zhang
-
-🚀 **Full-Stack & DevOps Engineer** | React.js · Go · Docker · Kubernetes · AWS   🌐 Cloud-Native & Scalable Systems Builder
+#  🚀 **Full-Stack & DevOps Engineer** | React.js · Go · Docker · Kubernetes · AWS   🌐 Cloud-Native & Scalable Systems Builder
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate Full-Stack Developer and DevOps Engineer who enjoys building **scalable, production-ready applications** from frontend to cloud infrastructure. I specialize in **React.js and Golang**, with a strong focus on **Docker, Kubernetes, and AWS**.
+A passionate Full-Stack Developer and DevOps Engineer who enjoys building **scalable, production-ready applications** from frontend to cloud infrastructure. I specialize in **React.js and Golang**, with a strong focus on **Docker, Kubernetes, and AWS**.
 
 I care deeply about:
 - Clean architecture & maintainable code
